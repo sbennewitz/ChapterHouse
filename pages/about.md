@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection is a selection of pictures from a behind the scenes tour of the Chapter House at York Minster. A church has been on the site of York Minster since the 7th century, with a stone church being built approxmiately one hundred years later. Construction on the Chapter House was begun in 1260. It is unique among medieval cathedrals for not having a central column; the vaulted ceiling is freestanding. The pictures show the intricate architecture involved in supporting the vault. There are markings on the beams that show which ones are supposed to be joined together. Tests on the timber show that some of the beams were significantly older than the chapter house and had previously been used in ship construction. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
